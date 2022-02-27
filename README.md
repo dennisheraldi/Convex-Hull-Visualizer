@@ -32,7 +32,7 @@ Penjelasan singkat mengenai folder/file: <br>
 ## Cara Menjalankan Program
 
 Alternatif 1 - Melalui Google Colab: <br>
-Dapat dengan mudah mengakses link ini, lalu jalankan semua sel (shortcut: Ctrl+F9)
+Dapat dengan mudah mengakses tautan [ini], lalu jalankan semua sel (shortcut: Ctrl+F9)
 
 Alternatif 2 - Menjalankan Notebook di local:
 1. Download dan install requirement program
@@ -53,3 +53,5 @@ K1 - IF2211 Strategi Algoritma <br>
 Teknik Informatika <br>
 Institut Teknologi Bandung <br>
 2022 <br>
+
+[ini]: https://colab.research.google.com/drive/1t3-ibSqPoemnNqudbzIqyqXd6nD-klyI?usp=sharing
