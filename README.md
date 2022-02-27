@@ -1,4 +1,4 @@
-# Tucil1_13520139
+# Tucil2_13520139
 
 Tugas Kecil 2 IF2211 Strategi Algoritma <br>
 Implementasi _Convex Hull_ untuk Visualisasi Tes _Linear Separability_ Dataset dengan Algoritma _Divide and Conquer_ <br>
